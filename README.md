@@ -1,6 +1,6 @@
 # ProyectoTema7
 
-Para utilizar este proyecto se tienen que realizar los siguientes pasos\n
+<br>ara utilizar este proyecto se tienen que realizar los siguientes pasos<br>
 
 1.- Crear el servicio Cognitivo TextAnalytics\n
 2.- Crear el servicio de Azure KeyVault\n
